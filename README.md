@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupsha014" alt="rupsha014" /></a> </p>
 
-- 🔭 I’m currently working on [Web UI Kit](https://github.com/Clueless-Community/web-ui-kit)
+- 🔭 I’m currently working on [Seamless UI](https://github.com/Clueless-Community/seamless-ui)
 
 - 🌱 I’m currently learning **React and Javascript**
 
